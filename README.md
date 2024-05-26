@@ -9,4 +9,4 @@ LeonN1/LeonN1 is a ✨ special ✨ repository because its `README.md` (this file
 You can click the Preview link to take a look at your changes.
 --->
 
-![LeonN534's GitHub stats](https://github-readme-stats.vercel.app/api?username=LeonN534&show_icons=true&bg_color=2b2a33&text_color=e5e5e5&icon_color=d484f4&title_color=85bef7)
+![LeonN534's GitHub stats](https://github-readme-stats.vercel.app/api?username=LeonN534&show_icons=true&bg_color=211f27&text_color=e5e5e5&icon_color=d484f4&title_color=85bef7)
