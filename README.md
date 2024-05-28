@@ -19,7 +19,7 @@ You can click the Preview link to take a look at your changes.
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img alt="LeonN534's Github Stats" src="https://github-readme-stats.vercel.app/api?username=LeonN534&show_icons=true&bg_color=211f27&text_color=e5e5e5&icon_color=d484f4&title_color=85bef7&border_color=b9b9c0&border_radius=7"/>
 </a>
-<a href="https://github.com/anuraghazra/github-readme-stats">
+<a href="https://github.com/anuraghazra/convoychat">
   <img alt="LeonN534's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeonN534&langs_count=8&layout=compact&bg_color=211f27&text_color=e5e5e5&icon_color=d484f4&title_color=85bef7&border_color=b9b9c0&border_radius=7" height="195px">
 </a>
 
