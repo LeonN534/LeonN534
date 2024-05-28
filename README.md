@@ -10,6 +10,7 @@ You can click the Preview link to take a look at your changes.
 --->
 
 ![LeonN534's GitHub stats](https://github-readme-stats.vercel.app/api?username=LeonN534&show_icons=true&bg_color=211f27&text_color=e5e5e5&icon_color=d484f4&title_color=85bef7&border_color=b9b9c0&border_radius=7)
+[![GitHub Streak](https://streak-stats.demolab.com?user=LeonN534&theme=dark-minimalist&border_radius=7&mode=weekly)](https://git.io/streak-stats)
 
 ## Personal idols
 [![image](https://github.com/LeonN534/LeonN534/assets/77511070/ae7de464-7872-4a1c-8fee-4b72f334ec2e)](https://ericmurphy.xyz/)
