@@ -1,3 +1,5 @@
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=85BEF7&random=false&width=435&lines=Full-stack+developer;Bilingual;Enthusiastic+programmer;Systems+engineer" alt="Typing SVG" /></a>
+
 - 👋 Hi, I’m @LeonN1
 - 👀 I’m interested ...
 - 🌱 I’m currently learning JavaScript
