@@ -12,7 +12,7 @@ You can click the Preview link to take a look at your changes.
 --->
 
 <h2>🔥 Streak Stats</h2>
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=LeonN534&theme=dark-minimalist&border_radius=7&mode=weekly" alt="GitHub Streak"/></a>
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=LeonN534&theme=dark-minimalist&border_radius=7&mode=daily" alt="GitHub Streak"/></a>
 
 
 <h2>💻 GitHub Profile Stats</h2>
